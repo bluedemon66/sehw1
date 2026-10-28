@@ -1,0 +1,18 @@
+# Local assignment instructions
+/lab_require.md
+
+# Local working copy and original backup; chat.txt preserves the full record
+/chat1.txt
+/chat1_original.txt
+
+# Editor and operating-system files
+/.vscode/
+/.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+~$*

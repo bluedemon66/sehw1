@@ -1,0 +1,6 @@
+# Use LF for repository configuration and documentation.
+* text=auto eol=lf
+
+# Preserve the exact bytes of course artifacts, including original transcript input.
+/requirements.md -text
+/chat.txt -text
